@@ -23,13 +23,6 @@ body:
       description: Description of what you expected to happen.
     validations:
       required: true
-  - type: textarea
-    id: attachments
-    attributes:
-      label: Attachments
-      description: If applicable, add any attachments that give context to the bug.
-    validations:
-      required: false
   - type: dropdown
     id: platform
     attributes:
@@ -46,5 +39,12 @@ body:
     attributes:
       label: Additional Information
       description: Add any other information about the bug here.
+    validations:
+      required: false
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Attachments
+      description: If applicable, add any attachments that give context to the bug.
     validations:
       required: false
