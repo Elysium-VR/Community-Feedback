@@ -1,2 +1,3 @@
-# Community-Feedback
-Community feedback, bug reports, and feature requests for Elysium.
+# Elysium Community Feedback
+To report a bug or request a new feature, please use a template:
+- [Report a Bug](https://github.com/Elysium-VR/Community-Feedback/issues/new?assignees=WallTack&labels=bug)
